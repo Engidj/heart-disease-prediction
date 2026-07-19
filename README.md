@@ -128,11 +128,15 @@ streamlit run app.py
 
 ### Home Screen
 
-*(Add screenshot here)*
+<img width="1908" height="1007" alt="image" src="https://github.com/user-attachments/assets/b7a4a37a-8c3b-48ff-a893-90edca1d1a40" />
+
 
 ### Prediction Result
 
-*(Add screenshot here)*
+<img width="1847" height="1037" alt="image" src="https://github.com/user-attachments/assets/aa8d35cc-2cd8-4135-98ad-8591d5d345fd" />
+
+<img width="1858" height="1037" alt="image" src="https://github.com/user-attachments/assets/280299e7-d9f3-4982-b258-01b38eb7f43e" />
+
 
 ---
 
